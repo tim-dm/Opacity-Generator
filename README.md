@@ -13,6 +13,6 @@
 ### OGConsole - A console application
 * A simple console application for quick opacity generation.
 
-[OGConsole v1.0](https://github.com/tim-dm/Opacity-Generator/releases/download/Console_1.0/OGConsole.zipp)
+[OGConsole v1.0](https://github.com/tim-dm/Opacity-Generator/releases/download/Console_1.0/OGConsole.zip)
 
 
