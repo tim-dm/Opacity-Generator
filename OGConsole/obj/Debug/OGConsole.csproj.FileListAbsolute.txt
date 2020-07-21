@@ -1,0 +1,10 @@
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\OGConsole.csprojAssemblyReference.cache
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\OGConsole.csproj.CoreCompileInputs.cache
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\OGConsole.exe.config
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\OGConsole.exe
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\OGConsole.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\OpacEngine.dll
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\OpacEngine.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\OGConsole.csproj.CopyComplete
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\OGConsole.exe
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\OGConsole.pdb

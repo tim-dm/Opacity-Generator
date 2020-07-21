@@ -1,0 +1,5 @@
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\OpacEngine\bin\Debug\OpacEngine.dll
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\OpacEngine\bin\Debug\OpacEngine.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\OpacEngine\obj\Debug\OpacEngine.csproj.CoreCompileInputs.cache
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\OpacEngine\obj\Debug\OpacEngine.dll
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\OpacEngine\obj\Debug\OpacEngine.pdb

@@ -1,0 +1,20 @@
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\obj\Debug\GrayColorGenerator.exe
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\obj\Debug\GrayColorGenerator.pdb
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\bin\Debug\Opacity Generator.exe.config
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\bin\Debug\Opacity Generator.exe
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\bin\Debug\Opacity Generator.pdb
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\obj\Debug\Opacity Generator.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\obj\Debug\Opacity Generator.exe
+C:\Users\User\Desktop\Opacity Generator\GrayColorGenerator\obj\Debug\Opacity Generator.pdb
+C:\Users\User\Desktop\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.exe.config
+C:\Users\User\Desktop\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.exe
+C:\Users\User\Desktop\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.pdb
+C:\Users\User\Desktop\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.exe
+C:\Users\User\Desktop\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.exe.config
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.exe
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\bin\Debug\Opacity Generator.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.csproj.CoreCompileInputs.cache
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.exe
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.pdb
+E:\dev\code\dotnet\c#\vs solutions\.net framework\apps\imvu\release\freeware\Opacity Generator\Opacity Generator\obj\Debug\Opacity Generator.csprojAssemblyReference.cache

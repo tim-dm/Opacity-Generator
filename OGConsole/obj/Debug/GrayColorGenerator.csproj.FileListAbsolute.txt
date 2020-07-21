@@ -1,0 +1,6 @@
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\bin\Debug\GrayColorGenerator.exe.config
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\bin\Debug\GrayColorGenerator.exe
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\bin\Debug\GrayColorGenerator.pdb
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\obj\Debug\GrayColorGenerator.csprojResolveAssemblyReference.cache
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\obj\Debug\GrayColorGenerator.exe
+c:\users\user\desktop\GrayColorGenerator\GrayColorGenerator\obj\Debug\GrayColorGenerator.pdb
