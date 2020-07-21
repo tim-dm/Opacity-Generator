@@ -30,11 +30,6 @@ namespace OpacEngine
             }
         }
 
-        public string Boop()
-        {
-            return $"{OpacitySettings.SavePath}\\{Hex}.{OpacitySettings.OpacityFormat}";
-        }
-
         public void Save()
         {
             string fileName = $"{AppDomain.CurrentDomain.BaseDirectory}Opacities\\{Hex}.{OpacitySettings.OpacityFormat}";
