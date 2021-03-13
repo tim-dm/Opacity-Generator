@@ -24,10 +24,7 @@ namespace OpacEngine
 
         public string Hex
         {
-            get
-            {
-                return R.ToString("X2") + G.ToString("X2") + B.ToString("X2");
-            }
+            get => return R.ToString("X2") + G.ToString("X2") + B.ToString("X2");
         }
 
         public void Save()
